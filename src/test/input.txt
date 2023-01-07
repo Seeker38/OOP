@@ -1,0 +1,4 @@
+red 3
+blue 2
+white 4
+black 5
